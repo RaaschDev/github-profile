@@ -18,7 +18,7 @@ export default function UserProfile() {
       </p>
       <div className={styles["items-container"]}>
         <span>&copy; NOBA</span>
-        <span>Rio Piracicaba</span>
+        <span>Rio Piracicaba MG</span>
         <span>devraasch@gmail.com</span>
       </div>
     </div>
